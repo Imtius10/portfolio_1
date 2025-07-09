@@ -144,6 +144,7 @@ footer{
     padding: 130px;
     display: flex;
     gap: 100px;
+    
 }
 .footer-column{
     width: 50%;
@@ -156,4 +157,7 @@ footer input[type="text"], input[type="email"], input textarea{
     width: 100%;
     padding: 10px 20px;
     margin-bottom: 24px;
+}
+.n{
+    background-color: rgba(253, 110, 10, 0.15);;
 }
